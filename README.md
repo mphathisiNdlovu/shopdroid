@@ -6,7 +6,7 @@
 [![Collaborators](https://img.shields.io/badge/Team-Directory-brightgreen.svg)](collaborators.md)
 [![Agents](https://img.shields.io/badge/AI_Agents-Guidelines-blueviolet.svg)](AGENTS.md)
 
-> **Project Lead / Author:** Mphathisi Ndlovu (`n02529052a@nust.ac.zw`)  
+> **Project Lead / Author:** Reuben T Mugwamba (`n02531744v@students.nust.ac.zw`)  
 > **Institution:** National University of Science and Technology (NUST), Zimbabwe  
 > **Documentation:** [Collaborators Directory](collaborators.md) | [Agent Instructions](AGENTS.md) | [Simulation Guide](docs/ShopDrone_Simulation_Guide.html)
 
